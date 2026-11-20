@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "projectId": "0411fec79612466fbb469ea10f4edcd5",
+  "channelId": "45ec71d7a5a445798f6b79836a5bbf33",
+  "epoch": 1,
+  "personalRecipient": "age1udymzgg07qqe6ufcjx7nmzmpze7yshjr7hkwv0xe5zpnw9hkg9pqmrkknd",
+  "personalSigningKey": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAnxClfp4ewspAfYvdztmm\nyQA/WWOzoirdwx1Vpwv4NSELoEvEbILNAA9GDFNBxy0DN0XYvVeBdtJdPth24CTT\nuQ4JuZQy1UWbmU78ui8kOfUoh8r2wndSoQXdMLJvcN\u002BKZSYWsWkEJg4WX0d\u002BEewD\nEwvgxDtt7JmcWBuDqRhCOK5kx8d3/pSVcYkZrkB6V9Zg821Y5PNaB1taTCKqsnyw\n3nrD7nIswvNizDRd3qYPNuTHfl/zny2DzNG8B02C9qUBlJjnYI8S70hkZz4m2k5i\nD8L6LRRn4vc3Ov1JCAr2hCnH8yykikRC3zH1OAVnZDYnaBMTjbp18NWfUfalBLzK\nWoqNjrcDVoQRvcPi/GhRBWIqhCr\u002B4K4n8ewDjtjyoRlxuHaqkJ6oVTuGqoFwGA33\nwPpAAtJNa8dM3RpfoGSOSwn3\u002BlJ0zI59o3M9vSYCeNWCgK\u002BXXdqRoF1kC3OWAwAe\ngc8fRGJ0c0BYQph8KzYDzGw4oHUKwXKTnapEUyPlkkC/AgMBAAE=\n-----END PUBLIC KEY-----",
+  "workRecipient": null
+}
