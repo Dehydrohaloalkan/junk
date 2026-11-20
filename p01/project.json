@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "projectId": "65000354393f40fe881f41f67e769e97",
+  "channelId": "b03a77ae12e24a19bcea69ec6f3d0a35",
+  "epoch": 1,
+  "personalRecipient": "age1rywhktq9rx5fw9ge976phmfp9x53jxwfcllkqwf9uswj2xvygeeqfn4h4p",
+  "personalSigningKey": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEA0cWzny8sX0YIJqJuHBzq\nP8YH75HMuG16dsxYnt98W05fx4PMYk1ulFjlyjCpwBdLIZu0of73m1SZEL86xcE5\nss8CvZYDoz7g3FqUtGIt3Awcq0puMu4MIln6HL9AXQy\u002BbzUMG7Crjb6eIYJwBwif\n0mGcUVjulTwseiUnLTmDZ31zFFwtoS6g40QlhfzQcvpHreCS\u002B5bD/bw0YMRcy\u002Bgd\n970WL3SiGIXRXDtmNm0hCQ5g8FumbAct7QaOYSzQX/bJq8oXrUiSF1HAHwzy0qDw\nKSrQAElNeauPDH9IrMtngNggwh1OY\u002B8ueHjbayGlgukTzhimEB8yEq\u002Bp7eH9hBC\u002B\nySotoM2t1J\u002BszLdDazsSGtgbL4ANlhdX2m\u002Bv9oTfj/DRfAqFcw1DfHbN5ofFo/q6\nV\u002BTC0N1Hv42UsMfHQ7i\u002BzkOvYnrowjQnsCsg73oMbaCLkGhNsGp9mgYe5gvNzTWD\nV36xYqGWaJQ3Xgl1jWVXogM3JZbpclOGrm15I5ZJkaP5AgMBAAE=\n-----END PUBLIC KEY-----",
+  "workRecipient": null
+}
